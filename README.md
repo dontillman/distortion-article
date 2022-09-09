@@ -1,2 +1,6 @@
-# distortion-article
-Jupyter Notebook code for the harmonic distortion article
+This is Jupyter Notebook Python code for my harmonic distortion article.
+
+Harmonic Distortion, Odd- and Even-Order
+https://www.till.com/articles/harmonicdistortion/
+
+Enjoy!
